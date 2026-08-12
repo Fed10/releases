@@ -10,9 +10,6 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/Fed10/releases/releases/download/v0.1.5/Fed10-0.1.5.dmg" length="3338668" type="application/octet-stream" sparkle:edSignature="93S+3T4k9/G1W9BqhD20hF293jvtr+NCs1MfR84aNEMaOVWZtTObVTF3bgJA3HXYak4TLBsPcrmd0lt5VXlkCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/Fed10/releases/main/Fed107-6.delta" sparkle:deltaFrom="6" length="1258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Gbh2mU2w/LlLT17LRh7pubNVmsTQFYiLqpcWlhTZbVBjceg2kSit8Jx631er94VHESiBe46cMFhzEFzaFhjnCg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.1.4</title>
