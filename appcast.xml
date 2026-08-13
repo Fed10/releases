@@ -1,7 +1,16 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Fed10</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Thu, 13 Aug 2026 16:01:31 -0700</pubDate>
+            <sparkle:version>129</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Fed10/releases/releases/download/v0.2.0/Fed10-0.2.0.dmg" length="2922895" type="application/octet-stream" sparkle:edSignature="6OpOMrNwcaTECx04hhilLjjR/BxfmEEU4uZ6iJhf39mUrzUFLYZeqd/tq8xbWCNdxHgfEqRRuNCEQfxbmLjhDg==" />
+        </item>
         <item>
             <title>0.1.5</title>
             <pubDate>Wed, 12 Aug 2026 13:01:31 -0700</pubDate>
@@ -9,7 +18,7 @@
             <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Fed10/releases/releases/download/v0.1.5/Fed10-0.1.5.dmg" length="3338668" type="application/octet-stream" sparkle:edSignature="93S+3T4k9/G1W9BqhD20hF293jvtr+NCs1MfR84aNEMaOVWZtTObVTF3bgJA3HXYak4TLBsPcrmd0lt5VXlkCg=="/>
+            <enclosure url="https://github.com/Fed10/releases/releases/download/v0.1.5/Fed10-0.1.5.dmg" length="3338668" type="application/octet-stream" sparkle:edSignature="93S+3T4k9/G1W9BqhD20hF293jvtr+NCs1MfR84aNEMaOVWZtTObVTF3bgJA3HXYak4TLBsPcrmd0lt5VXlkCg==" />
         </item>
         <item>
             <title>0.1.4</title>
@@ -18,7 +27,7 @@
             <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Fed10/releases/releases/download/v0.1.4/Fed10-0.1.4.dmg" length="3338907" type="application/octet-stream" sparkle:edSignature="SFUKjzFbzBWH1TebDk8y32yx2b90tIYzacgq243WEyAjbIvkXt73bfFr9d4xDhnhazmsAxF5GpBvyBdOD4VhCg=="/>
+            <enclosure url="https://github.com/Fed10/releases/releases/download/v0.1.4/Fed10-0.1.4.dmg" length="3338907" type="application/octet-stream" sparkle:edSignature="SFUKjzFbzBWH1TebDk8y32yx2b90tIYzacgq243WEyAjbIvkXt73bfFr9d4xDhnhazmsAxF5GpBvyBdOD4VhCg==" />
         </item>
     </channel>
 </rss>
